@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 125%;
+}
+.about{
+    border-spacing: 20px;
+}
+h1{
+    font-size: 20px;
+}
+.fas{
+    color: goldenrod;
+}
+.skills{
+    border-spacing: 10px;
+}
