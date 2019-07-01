@@ -1,16 +1,38 @@
 body{
     padding: 0;
+    background-color: #d3f6f3;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
 }
 img{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border-radius: 125%;
 }
 .about{
     border-spacing: 20px;
 }
+.name-title{
+    font-size: 30px;
+    color: #66bfbf;
+}
 h1{
     font-size: 20px;
+    color: #66bfbf;
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    color: #fbd1b7;
+}
+.hobbies:hover, .contact:hover{
+    color: #fbd1b7;
 }
 .fas{
     color: goldenrod;
